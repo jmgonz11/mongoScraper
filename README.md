@@ -1,1 +1,2 @@
 # mongoScraper
+# I could not get the app running all the way- I am still catching up from when I was gone. I psudocoded the rest and will need to finish the missing parts and get the working app running on Heroku. 
